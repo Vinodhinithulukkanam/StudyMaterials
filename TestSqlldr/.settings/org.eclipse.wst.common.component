@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="TestSqlldr">
+    <wb-module deploy-name="Dynamic Programing">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="java-output-path" value="/TestSqlldr/build/classes"/>
-        <property name="context-root" value="TestSqlldr"/>
+        <property name="java-output-path" value="/Dynamic Programing/build/classes"/>
+        <property name="context-root" value="Dynamic Programing"/>
     </wb-module>
 </project-modules>
